@@ -19,7 +19,10 @@ We meet in person and present our talks offline + online to make our content ava
 ### 2022-02-23 4:30 PM CEST
 
 Daniel Drack [AVL] & Jürgen Etzlstorfer [Microsoft]:\
-[CNCF - Die Organisation hinter Kubernetes]()
+[CNCF - Die Organisation hinter Kubernetes](2022-02/2022_02_CNCF_Overview.pdf)
+
+Patrick Koch [AVL]:\
+[Cloud Migration einer containerisierten Legacy Software Applikation]()
 
 ### 2021-11-24- 4 PM CEST
 
