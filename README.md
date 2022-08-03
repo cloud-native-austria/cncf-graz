@@ -16,6 +16,25 @@ We aim to meet at least once every 4-6 weeks to exchange thoughts, share experie
 Our meetings are held in a hybrid form if possible.\
 We meet in person and present our talks offline + online to make our content available to everybody.
 
+### 2022-08-03 4:30 PM CEST
+
+Daniel Drack [FullStackS] & Holger Fischer [K-Businesscom]:\
+[Introduction to the CNCF community chapter Graz](2022-06/CNCF-Meetup-0627.pdf)
+
+Daniel Mellado Area [RedHat] + German M. Yebenes [SUSE]:\
+[An introduction to CNI]()
+
+Bastian Hofmann [SUSE]:\
+[Protect against unknown security vulnerabilities]()
+
+### 2022-06-27 4:30 PM CEST
+
+Daniel Drack [FullStackS] & Holger Fischer [K-Businesscom]:\
+[Introduction to the CNCF community chapter Graz](2022-06/CNCF-Meetup-0627.pdf)
+
+Matthias Eisterer [REDFROG]:\
+[IT Recruiting - the art of hide and seek](2022-06/2022_06_recruiting.pdf)
+
 ### 2022-02-23 4:30 PM CEST
 
 Daniel Drack [AVL] & Jürgen Etzlstorfer [Microsoft]:\
