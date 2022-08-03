@@ -1,13 +1,21 @@
-# K8s roundtable Graz
+# CNCF community chapter Graz, Austria
 
-This is the main git repo of the K8s roundtable Graz.
+This is the main git repo of the CNCF community chapter Graz, Austria.
+Find us..
+
+- here (obviously)
+- [CNCF community chapter page](https://community.cncf.io/graz-austria/)
+- [Meetup](https://www.meetup.com/cncf-graz/)
 
 ## Target Audience
 
-We are a group of K8s, DevOps and Cloud enthusiasts.\
+We are a group of K8s, DevOps and cloud native enthusiasts.\
 This group is dedicated to meetings and get-togethers that may foster the exchange within the community.\
 Although most of us are working professionals, this group is not meant to have a company branding whatsoever.\
 We are a group for tech savy professionals, interested in exchanging knowledge and experience.
+
+All events of the CNCF community chapter Graz follow the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).\
+Our primary goal is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.
 
 ## Meetings / Talks
 
