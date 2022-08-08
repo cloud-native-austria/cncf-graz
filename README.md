@@ -4,6 +4,7 @@ This is the main git repo of the CNCF community chapter Graz, Austria.
 Find us..
 
 - here (obviously)
+- [CNCF Slack: #graz channel](https://communityinviter.com/apps/cloud-native/cncf)
 - [CNCF community chapter page](https://community.cncf.io/graz-austria/)
 - [Meetup](https://www.meetup.com/cncf-graz/)
 
