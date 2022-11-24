@@ -24,9 +24,33 @@ We aim to meet at least once every 4-6 weeks to exchange thoughts, share experie
 Our meetings are held in a hybrid form if possible.\
 We meet in person and present our talks offline + online to make our content available to everybody.
 
+- 2022-11-23 5:00 PM CEST @ SPACELEND
+  - Daniel Drack [FullStackS]:\
+    [Introduction to the CNCF community chapter Graz](2022-11-23/CNCF-Meetup-1123.pdf)
+  - Andreas Grabner & Thomas Schütz [Dynatrace]:\
+    [Keptn 1.0, SLOs and Beyond: Sailing into the Future]()
+  - Klaus Kämpf [SUSE]:\
+    [Using Kubernetes to manage your operating system](2022-11-23/CNCF-Elemental-deep-dive.pdf)
+
+- 2022-10-03 4:30 PM CEST @ SPACELEND
+  - Daniel Drack [FullStackS]:\
+    [Introduction to the CNCF community chapter Graz](2022-10-03/CNCF-Meetup-1003.pdf)
+  - Chris Lentricchia [Isovalent]:\
+    [Operation Dvoretskyi]()
+  - Karoly Vegh [Red Hat Austria]:\
+    [3 Layers of Compliance Automation with RHEL and Openscap]()
+
+- 2022-08-29 4:30 PM CEST @ SPACELEND
+  - Daniel Drack [FullStackS]:\
+    [Introduction to the CNCF community chapter Graz](2022-08-29/CNCF-Meetup-0627.pdf)
+  - Konrad Renner [ARZ]:\
+    [Back to the future - How a 2004 book helps us design cloud native software](2022-08-29/ddd_back_to_the_future.pdf)
+  - Michael Klug [IBM]:\
+    [Kuberentes native workflow engines](2022-08-29/workflow-engines.pdf)
+
 - 2022-08-03 4:30 PM CEST @ SPACELEND
   - Daniel Drack [FullStackS] & Holger Fischer [K-Businesscom]:\
-    [Introduction to the CNCF community chapter Graz](2022-06/CNCF-Meetup-0627.pdf)
+    [Introduction to the CNCF community chapter Graz](2022-08-03/CNCF-Meetup-0803.pdf)
   - Daniel Mellado Area [RedHat] + German M. Yebenes [SUSE]:\
     [An introduction to CNI]()
   - Bastian Hofmann [SUSE]:\
