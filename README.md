@@ -24,6 +24,29 @@ We aim to meet at least once every 4-6 weeks to exchange thoughts, share experie
 Our meetings are held in a hybrid form if possible.\
 We meet in person and present our talks offline + online to make our content available to everybody.
 
+- 2023-12-13 5:00 PM CEST @ SPACELEND
+  - Christmas Party
+  
+- 2023-11-16 5:00 PM CEST @ SPACELEND
+  - Recap 2023
+  - Cloud Native Newsflash
+  - Cloud Native Pub-Quiz
+  - Laszlo Fogas [gimlet.io]: \
+    Introduction to gimlet.io
+
+- 2023-10-03 5:00 PM CEST @ SPACELEND
+  - Cloud Native Pub-Quiz
+  - Michael Klug [FullStackS] & Martin Brugger [Beyond Now]:\
+    Don't get Tilted (or do)
+
+- 2023-04-05 5:00 PM CEST @ SPACELEND
+  - Thomas Schütz [WhizUs]:\
+    [Solving Kubernetes Mysteries with K8sGPT: Your AI-Powered Troubleshooting Companion](https://docs.google.com/presentation/d/1SCfmCXzVomG-7nNsetgigjWOo4p0O-KCZUGKnbjDdKY/edit?usp=sharing)
+  - Cloud Native Pub-Quiz
+
+- 2023-04-05 5:00 PM CEST @ SPACELEND
+  - Cloud Native Pub-Quiz
+  
 - 2022-11-23 5:00 PM CEST @ SPACELEND
   - Daniel Drack [FullStackS]:\
     [Introduction to the CNCF community chapter Graz](2022-11-23/CNCF-Meetup-1123.pdf)
