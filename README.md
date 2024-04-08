@@ -24,6 +24,14 @@ We aim to meet at least once every 4-6 weeks to exchange thoughts, share experie
 Our meetings are held in a hybrid form if possible.\
 We meet in person and present our talks offline + online to make our content available to everybody.
 
+- 2024-03-28 5:00 PM CEST @ SPACELEND
+  - Cloud Native Pub-Quiz
+  - Patrick Pichler [CAST AI]:\
+    [Going Minimal](2024-03-28/CNCF-Going-Minimal.pdf)
+
+- 2024-02-22 5:00 PM CEST @ SPACELEND
+  - Start to 2024
+
 - 2023-12-13 5:00 PM CEST @ SPACELEND
   - Christmas Party
   
@@ -45,7 +53,7 @@ We meet in person and present our talks offline + online to make our content ava
   - Cloud Native Pub-Quiz
 
 - 2023-04-05 5:00 PM CEST @ SPACELEND
-  - Cloud Native Pub-Quiz
+  - 1st Cloud Native Pub-Quiz
   
 - 2022-11-23 5:00 PM CEST @ SPACELEND
   - Daniel Drack [FullStackS]:\
