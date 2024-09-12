@@ -24,6 +24,11 @@ We aim to meet at least once every 4-6 weeks to exchange thoughts, share experie
 Our meetings are held in a hybrid form if possible.\
 We meet in person and present our talks offline + online to make our content available to everybody.
 
+- 2024-09-09 5:00 PM CEST @ Trever
+  - Cloud Native Pub-Quiz
+  - Roland Urbano [NTS]:\
+    [Grafana Alloy vs. OTel Collector](2024-09-09/Alloy_vs_OTel_Collector.pdf)
+
 - 2024-03-28 5:00 PM CEST @ SPACELEND
   - Cloud Native Pub-Quiz
   - Patrick Pichler [CAST AI]:\
